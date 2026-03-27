@@ -1,2 +1,1 @@
-# img-bed
-个人图床
+# ERLIU 2027 Lesson Schedule
